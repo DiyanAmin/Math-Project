@@ -1,4 +1,4 @@
-#Kon Banega Smartpati
+By The Numbers
 
 #Necessary Modules
 from time import sleep
@@ -7,7 +7,7 @@ import customtkinter as ctk
 
 #Global Variables
 questionFont=('Times New Roman',40)
-name='Kon Banega Smart-pati'
+name='By The Numbers'
 question=0
 questionTypes=['Addition','Multiplication','Division','Subraction']
 
